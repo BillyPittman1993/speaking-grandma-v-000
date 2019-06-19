@@ -10,7 +10,4 @@ def speak_to_grandma(phrase)
   end
 end
 
-puts "hello, dear!"
-phrase = gets.strip
-speak_to_grandma(phrase)
 
